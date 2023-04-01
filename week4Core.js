@@ -1,4 +1,4 @@
-<><h1> Welcome to corejs week 4 session </h1><p>
+<><h1> Welcome to corejs week 4 session on saturday </h1><p>
     steps to push code from VS to github
 
     1.clone the repository from github 
@@ -30,7 +30,6 @@
    review comments to update (branch1 cannot be merged because of conflict behind main branch)
    -- pull from the main branch
    -- he will have main branch + new main branch changes(branch2) + branch1 changes
-
 
 --2nd developer (has to update a button functionality with styling)
   -- Create a branch from the main branch
